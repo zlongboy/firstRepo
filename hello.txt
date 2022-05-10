@@ -1,5 +1,9 @@
 hello world
 the second line in hello
 this is from a feature branch
+<<<<<<< HEAD
 a fourth line wow
 here comes a master
+=======
+a fourth line wow
+>>>>>>> feat-update-hello
