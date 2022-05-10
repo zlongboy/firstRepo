@@ -1,9 +1,7 @@
 hello world
 the second line in hello
 this is from a feature branch
-<<<<<<< HEAD
 a fourth line wow
 here comes a master
-=======
-a fourth line wow
->>>>>>> feat-update-hello
+push existing repo to github: git remote add origin [https or ssh location]
+origin is naming convention for source of remote repo
