@@ -7,4 +7,4 @@ git remote add origin [https or ssh path] <-- push existing repo to remote
 note: origin is naming convention for main remote repo
 git push origin [branch] <-- pushes up branch to remote repo (GitHub)
 git pull origin master <-- pull down master branch from remote to local
-git clone [path] <-- clone a repo to local
+git clone [path] <-- clone a repo to local (automatically sets origin)
