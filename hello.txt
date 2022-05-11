@@ -1,7 +1,7 @@
 hello world
-the second line in hello
-this is from a feature branch
-a fourth line wow
-here comes a master
-push existing repo to github: git remote add origin [https or ssh location]
-origin is naming convention for source of remote repo
+
+cd [path] 
+git init <-- creates empty repo
+git add [file or .], git commit -m [commit message]
+git remote add origin [https or ssh location] <-- push existing repo to remote
+note: origin is naming convention for main remote repo
