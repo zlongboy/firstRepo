@@ -5,3 +5,4 @@ git init <-- creates empty repo
 git add [file or .], git commit -m [commit message]
 git remote add origin [https or ssh location] <-- push existing repo to remote
 note: origin is naming convention for main remote repo
+git push origin master
