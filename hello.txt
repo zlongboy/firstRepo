@@ -1,9 +1,9 @@
 hello world
-the second line in hello
-this is from a feature branch
-<<<<<<< HEAD
-a fourth line wow
-here comes a master
-=======
-a fourth line wow
->>>>>>> feat-update-hello
+
+cd [path] 
+git init <-- creates empty repo
+git add [file or .], git commit -m [commit message]
+git remote add origin [https or ssh location] <-- push existing repo to remote
+note: origin is naming convention for main remote repo
+git push origin [branch] <-- pushes up branch to remote repo (GitHub)
+git pull origin master <-- pull down master branch from remote to local
